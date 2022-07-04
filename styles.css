@@ -1,3 +1,7 @@
+h3{
+  text-decoration: overline;
+  color: white;
+}
 .container {
   width: 70%;
   margin: auto;
